@@ -31,3 +31,11 @@ Welcome to your React Native course documentation repository. Use this folder to
   - Declarative (`<Link>`) vs programmatic (`router`) navigation
   - Real-world gotchas (absolute path slashes, style casing, touch conflicts)
 
+- [4. Tutorial #4 - Layouts and Stack](./4.%20Tutorial%20%234%20-%20Layouts%20and%20Stack.md)
+  - Purpose of `_layout.jsx` files and persistent wrappers
+  - `<Slot />` vs `<Stack />` navigation differences
+  - Global `screenOptions` vs individual `<Stack.Screen options={{ ... }} />`
+  - Header styling (`headerStyle`, `headerTintColor`, `headerTitleStyle`)
+  - Back button behavior: why it appears, Web refresh gotcha, and custom back buttons
+  - Real-world patterns (modals, dynamic headers from screen components)
+
