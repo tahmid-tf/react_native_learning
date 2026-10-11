@@ -15,3 +15,11 @@ Welcome to your React Native course documentation repository. Use this folder to
   - Stack and Tab layouts (`_layout.jsx`)
   - Common pitfalls and troubleshooting checklist
 
+- [2. Tutorial #2 - Text, View & Image Components](./2.%20Tutorial%20%232%20-%20Text,%20View%20%26%20Image%20Components.md)
+  - Core mental model: Native mobile vs Web DOM
+  - `<View>` layout, Flexbox defaults, and spacing
+  - `<Text>` nesting, style inheritance, and truncation
+  - `<Image>` with local assets vs remote URLs and `resizeMode`
+  - `StyleSheet.create` vs inline styles & conditional style arrays
+  - Real-world gotchas (camelCase styles, remote image sizing, safe areas)
+
