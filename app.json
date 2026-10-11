@@ -1,6 +1,6 @@
 {
   "expo": {
-    "scheme": "shelfie_app",
+    "scheme": "shelfie-app",
     "experiments": {
       "typedRoutes": true
     },
