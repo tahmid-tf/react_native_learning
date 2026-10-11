@@ -39,3 +39,11 @@ Welcome to your React Native course documentation repository. Use this folder to
   - Back button behavior: why it appears, Web refresh gotcha, and custom back buttons
   - Real-world patterns (modals, dynamic headers from screen components)
 
+- [5. Tutorial #5 - Light and Dark Themes](./5.%20Tutorial%20%235%20-%20Light%20and%20Dark%20Themes.md)
+  - Color token architecture and semantic naming (`constants/colors.jsx`)
+  - Detecting OS appearance via `useColorScheme` with nullish fallbacks
+  - Configuring `userInterfaceStyle` in `app.json` for automatic device toggling
+  - Dynamic navigation header theming in `app/_layout.jsx`
+  - Managing status bar icon contrast with `expo-status-bar`
+  - Production pattern: building a reusable `useTheme()` hook
+
