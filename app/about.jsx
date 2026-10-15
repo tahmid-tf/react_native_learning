@@ -2,7 +2,7 @@ import { StyleSheet, Text, View, useColorScheme } from "react-native";
 import { Link } from "expo-router";
 import { Colors } from "../constants/colors";
 
-const About = () => {
+const About = ({ style, children, ...props }) => {
   const colorScheme = useColorScheme();
   const theme = Colors[colorScheme] ?? Colors.light;
   return (
